@@ -21,7 +21,10 @@ Senior Data Scientist
 Assisting enterprises by supporting data-driven decision-making.
 """
 EMAIL = "ugo.piqueras@gmail.com"
-SOCIAL_MEDIA = {"GitHub": "https://github.com/UgoDS", "Linkedin": ""}
+SOCIAL_MEDIA = {
+    "GitHub": "https://github.com/UgoDS",
+    "Linkedin": "https://www.linkedin.com/in/ugo-piqueras-3686447/",
+}
 PROJECTS = [
     "🏆 Recommendation engine for videos",
     "🏆 Image segmentation for road damages",
