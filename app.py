@@ -83,7 +83,7 @@ st.write("\n")
 st.subheader("Experience & Qualifications")
 st.write(
     """
-- ✔️ 10 Years experience extracting actionable insights from data
+- ✔️ 10 Years experience Data Scientist extracting actionable insights from data
 - ✔️ Strong hands-on experience in Python, git, SQL, Azure and Excel
 - ✔️ Deep understanding of ML models and their respective applications
 - ✔️ Team-player and sense of initiative on tasks
@@ -116,10 +116,10 @@ st.write("🚧", "**Senior Data Scientist | Pernod Ricard**")
 st.write("12/2020 - 08/2023")
 st.write(
     """
-- ► Creation of ephemeral data innovation teams, involving 40 people with direct business benefits
-- ► Implementation of an internal chatbot for answering all employees questions using LLM
-- ► Updating a recommendation engine for an internal Data Portal with a 35% increase on Click Rate
-- ► Supporting on good data practices for more than 50 Data Analysts and Data Scientists, including trainings
+- ► Founded and oversaw ephemeral data innovation teams, involving 40 people and delivering direct business benefits.
+- ► Successfully implemented an internal chatbot using LLM to answer all employees' questions.
+- ► Enhanced a recommendation engine for an internal Data Portal, resulting in a 35% increase in Click Rate.
+- ► Provided support for over 50 Data Analysts and Data Scientists, including conducting training on data best practices.
 """
 )
 
@@ -130,10 +130,10 @@ st.write("04/2016 - 11/2020")
 st.write(
     """
 - ► Consultant for different clients: Banking sector, Retail, Television, Civil Engineering
-- ► Built a customer segmentation for a major Television channel
-- ► Modeled a recommendation engine for videos, 1M users/day
-- ► Implement a computer vision program to detect and geolocate road damages
-- ► Outlet segmentation based on social media contents
+- ► Constructed a customer segmentation model for a major Television channel.
+- ► Launched a recommendation engine into production for video replay, utilizing users' past activity as the basis.
+- ► Executed a computer vision program to detect and geolocate road damages.
+- ► Segmented outlets based on social media content analysis.
 """
 )
 
@@ -143,7 +143,7 @@ st.write("🚧", "**Data Analyst | Energies Demain**")
 st.write("04/2015 - 01/2018")
 st.write(
     """
-- ► Creation of a bottom-up water demand tool in France, used by French ministry of Environment
+- ► Creation of a bottom-up water demand tool in France, used by French Ministry of Environment
 - ► Elaboration of a national prospective scenario on electric demand
 - ► Collaborated with governmental agencies and work presentation at international forums
 """
